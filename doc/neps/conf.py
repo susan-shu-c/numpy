@@ -45,7 +45,7 @@ templates_path = ['../source/_templates/']
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'content'
+master_doc = 'index'
 
 # General information about the project.
 project = u'NumPy Enhancement Proposals'
